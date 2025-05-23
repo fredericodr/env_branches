@@ -12,3 +12,6 @@ def make_bar(var1, var2):
 
 def calculate_stuff(var):
     return "a lot of stuff"
+
+def clean_stuff(df):
+    return "clean df"
