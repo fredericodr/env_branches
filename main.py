@@ -10,4 +10,5 @@ def make_scatter(var1, var2):
     plt.show()
     return None
 
-print("nice! we were able to run this script, that doesnt do much!")
+def calculate_stuff(var):
+    return "a lot of stuff"
