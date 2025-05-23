@@ -5,8 +5,8 @@ def load_data(path):
     df = pd.read_csv(path)
     return df
 
-def make_bar(var1, var2):
-    plt.bar(var1, var2)
+def make_hbar(var1, var2):
+    plt.hbar(var1, var2)
     plt.show()
     return None
 
